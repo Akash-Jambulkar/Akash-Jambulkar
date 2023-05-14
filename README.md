@@ -45,6 +45,3 @@ I have been learning web-developing and kali Linux. I have exploited vulnerabili
 
 <a href="https://github.com/Akash-Jambulkar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Jambulkar&langs_count=10&title_color=14b8a6&text_color=facc15&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/."><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
