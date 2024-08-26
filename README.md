@@ -7,7 +7,7 @@ Networking and Web-Developer
 I have been learning web-developing and kali Linux. I have exploited vulnerabilities in computer system, networks and applications. I also made some basic websites and projects using Html, CSS and JavaScript.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [BasicSites](http://akashjambulkar.host20.uk/)
+
 * ✉️  You can contact me at [akashjambulkar0625@gmail.com](mailto:akashjambulkar0625@gmail.com)
 * 🧠  I'm learning Python Frameworks - Django and TensorFlow with Networking skills to exploit and backtrack sites.
 * ⚡  Weeb - Japanophile
