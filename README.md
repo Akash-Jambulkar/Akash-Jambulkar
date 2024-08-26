@@ -10,7 +10,7 @@ I have been learning web-developing and kali Linux. I have exploited vulnerabili
 
 * ✉️  You can contact me at [akashjambulkar0625@gmail.com](mailto:akashjambulkar0625@gmail.com)
 * 🧠  I'm learning Python Frameworks - Django and TensorFlow with Networking skills to exploit and backtrack sites.
-* ⚡  Weeb - Japanophile
+
 
 ### Skills
 
