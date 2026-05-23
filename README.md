@@ -1,19 +1,14 @@
 Hi, My name is Akash Jambulkar
 =======================================================================================================================================
 
-Networking and Web-Developer
-----------------------------
+QA Automation and CyberSecurity
+--------------------------------
 
-I have been learning web-developing and kali Linux. I have exploited vulnerabilities in computer system, networks and applications. I also made some basic websites and projects using Html, CSS and JavaScript.
-
-* 🌍  I'm based in India
+I have been automation, networking and cybersecurity. I have exploited vulnerabilities in computer system, networks and applications. 
 
 * ✉️  You can contact me at [akashjambulkar0625@gmail.com](mailto:akashjambulkar0625@gmail.com)
-* 🧠  I'm learning Python Frameworks - Django and TensorFlow with Networking skills to exploit and backtrack sites.
-
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
