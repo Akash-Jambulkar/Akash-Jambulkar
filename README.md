@@ -4,7 +4,7 @@ Hi, My name is Akash Jambulkar
 QA Automation and CyberSecurity
 --------------------------------
 
-I have been automation, networking and cybersecurity. I have exploited vulnerabilities in computer system, networks and applications. 
+I have been learning automation, networking and cybersecurity. I have exploited vulnerabilities in computer system, networks and applications. 
 
 * ✉️  You can contact me at [akashjambulkar0625@gmail.com](mailto:akashjambulkar0625@gmail.com)
 
